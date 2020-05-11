@@ -1,4 +1,5 @@
-# stackoverflow
-This repository contains my stackoverflow contributions. I am in the process of building it here in github.  
+# Stackoverflow
 
-The answers will be maintained in folder [`'./answers'`](./answers).
+This repository contains my stackoverflow contributions. I am in the process of building it here in github.
+
+The answers will be maintained in folder [`'./src/answers'`](./src/answers).
