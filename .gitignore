@@ -1,2 +1,3 @@
 ## folders to ignore
 .vscode
+~$*.xlsx
