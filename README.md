@@ -33,3 +33,5 @@ My [Stackoverflow profile][#stackoverflow-profile].
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/sugatoray/stackoverflow?style=flat&logo=github)](https://github.com/sugatoray/stackoverflow)
 
 ---
+
+<a href="https://stackoverflow.com/users/8474894/cypherx"><img src="https://stackoverflow.com/users/flair/8474894.png" width="208" height="58" alt="Profile for sugatoray at Stack Overflow, as CypherX." title="Profile for CypherX at Stack Overflow - Physicist (MS, PhD) | Programmer | MBA | Data Science | Machine Learning"></a>
