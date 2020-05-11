@@ -1,7 +1,7 @@
 # Stackoverflow
 
 <figure>
-     <img src="./docs/images/stackoverflow-repo_logo.PNG" \>
+     <img src="./docs/images/stackoverflow-repo_logo.png" \>
 </figure>
 
 This repository contains my stackoverflow contributions. The repo is under continual construction.
