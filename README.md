@@ -33,3 +33,5 @@ My [Stackoverflow profile][#stackoverflow-profile].
 [![GitHub last commit](https://img.shields.io/github/last-commit/sugatoray/stackoverflow?style=flat&logo=github)](https://github.com/sugatoray/stackoverflow)
 &nbsp; &nbsp;
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/sugatoray/stackoverflow?style=flat&logo=github)](https://github.com/sugatoray/stackoverflow)
+&nbsp; &nbsp;
+![Python 3.7](https://img.shields.io/badge/Python-3.7-blue.svg)
