@@ -10,7 +10,7 @@
 
 [#logo]: ./docs/images/stackoverflow-repo_logo.png
 
-This repository contains my stackoverflow contributions. The repo is under continual construction.
+This repository contains my stackoverflow contributions. The repo is under continual construction. I have answered close to 250 questions so far, and I keep updating this repo from time to time. But since I started this repo long after I started answering on Stackoverflow, I have a lot of catching up to do! :smiley:
 
 The answers are maintained in folder [`'./src/answers'`](./src/answers).
 
