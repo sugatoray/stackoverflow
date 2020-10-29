@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+
+- name: fastpages: An easy to use blogging platform with support for Jupyter Notebooks.
+  uses: fastai/fastpages@v2.1.5
