@@ -6,11 +6,11 @@ import re
 def make_dummy_data(filepath: str):
     
     s = """
-    0011:2233:4455 ghwvauguvwi ybvakvi
-    klasilvavh; 1122:3344:5566
+    a0b1:ff33:acd5 ghwvauguvwi ybvakvi
+    klasilvavh; 11b9:33df:55f6
     haliviv
-    4411:7733:6655
-    6611:2233:9955
+    a4d1:e733:ff55
+    66a1:b2f3:b9c5
     """
 
     # Create dummy data file
@@ -43,7 +43,7 @@ def extract_mac_ids(content: str, format: bool=True):
     """
     
     # import re
-    pattern = r"(\d{4}:\d{4}:\d{4})"
+    pattern = r"(\w{4}:\w{4}:\w{4})"
     pat = re.compile(pattern)
     mac_ids = pat.findall(content) # returns a list of all mac-ids
     # Replaces the ":" with "" and then formats 
@@ -67,7 +67,8 @@ if __name__ == "__Main__":
     print(mac_ids)
 
     ## Output: for Dummy Data
-    # ['00-11-22-33-44-55',
-    #  '11-22-33-44-55-66',
-    #  '44-11-77-33-66-55',
-    #  '66-11-22-33-99-55']
+    #
+    # ['a0-b1-ff-33-ac-d5',
+    #  '11-b9-33-df-55-f6',
+    #  'a4-d1-e7-33-ff-55',
+    #  '66-a1-b2-f3-b9-c5']
