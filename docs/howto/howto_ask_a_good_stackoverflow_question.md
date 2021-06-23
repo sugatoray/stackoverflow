@@ -3,20 +3,21 @@
 > **The golden rule of asking any question is to connect with your audience and explain your 
 question with examples, whenever possible.**
 
-The questions you ask, unless your audience grasps your question clearly, they would either 
-wait for more information or they will simply choose to skip answering your question.
+The questions you ask, unless your audience grasps your 
+question clearly, they would either wait for more information 
+or they will simply choose to skip answering your question.
 
 
 I have seen often many new users of stackoverflow asking questions that from the following pitfalls:
 
-- not properly formatted 
+- **NOT** properly formatted 
   - should learn how to use markdown to write properly formatted questions/answers.
-- properly presented 
+- **NOT** properly presented 
   - should try to rephrase the question by breaking it down in coherent sections, if necessary.
   - examples are always helpful
   - plots/diagrams could speak volumes (if used where applicable)
-- without adequate information
-- does not mention:
+- **WITHOUT** adequate information
+- **DOES NOT** mention:
   - what they have now (current state)
   - what they want from the solution (future state)
   - what they have done (current progress)
