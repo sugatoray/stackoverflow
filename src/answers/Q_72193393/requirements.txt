@@ -1,5 +1,5 @@
 numpy
 pandas
-kaleido
+kaleido==1.1.0
 optuna
 tqdm
