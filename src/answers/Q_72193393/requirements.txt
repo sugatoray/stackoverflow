@@ -1,4 +1,4 @@
-numpy
+numpy==2.4.6
 pandas
 kaleido
 optuna
