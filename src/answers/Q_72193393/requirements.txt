@@ -1,5 +1,5 @@
 numpy
-pandas
+pandas==3.0.6
 kaleido
 optuna
 tqdm
